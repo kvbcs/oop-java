@@ -1,3 +1,4 @@
+package exos;
 public class Salarie extends Employe {
     private double salaireMensuel;
 

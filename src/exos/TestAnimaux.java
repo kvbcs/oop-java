@@ -1,3 +1,4 @@
+package exos;
 public class TestAnimaux {
     public static void main(String[] args) {
     Animal[] animaux = { new Chien(), new Chat() };

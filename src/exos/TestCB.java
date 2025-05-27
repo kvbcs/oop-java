@@ -1,3 +1,4 @@
+package exos;
 public class TestCB {
     public static void main(String[] args) {
         CompteBancaire cb = new CompteBancaire(100);

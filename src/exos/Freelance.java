@@ -1,3 +1,4 @@
+package exos;
 public class Freelance extends Employe {
     private int heures;
     private double tarifHoraire;

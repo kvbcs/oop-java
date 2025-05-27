@@ -1,3 +1,4 @@
+package exos;
 public class CompteBancaire {
     private double solde;
     public CompteBancaire(double soldeInitial) {
